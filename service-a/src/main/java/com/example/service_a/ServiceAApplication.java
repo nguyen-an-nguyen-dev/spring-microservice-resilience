@@ -12,3 +12,4 @@ public class ServiceAApplication {
         SpringApplication.run(ServiceAApplication.class, args);
     }
 }
+	

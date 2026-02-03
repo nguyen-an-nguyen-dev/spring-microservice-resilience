@@ -58,6 +58,11 @@
     <version>2.2.0</version>
 </dependency>
 
+<dependency>
+    <groupId>org.projectlombok</groupId>
+    <artifactId>lombok</artifactId>
+    <optional>true</optional>
+</dependency>
 		
 		
 		<!-- Test (JUnit 5 + Spring Boot Test) -->
